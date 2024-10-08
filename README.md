@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arwa-WanLa
-- 👀 I’m interested in Frontend devemopment using Angular and AEM
+- 👀 I’m interested in Frontend devemopment using React and AEM
 - 🌱 I’m currently working as ICT Application Designer
 
 <!---
